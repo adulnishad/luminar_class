@@ -1,0 +1,42 @@
+/* basic selectors */
+/* tag selector */
+
+body{
+
+    background-color:antiquewhite
+}
+h1{
+    color: blueviolet;
+}
+#head_two{
+    color: rgb(138, 127, 255);
+}
+.list-item{
+    color: blue;
+    text-decoration:underline;
+    text-decoration-color:green;
+}    
+.item-odd{
+    text-decoration-color: chartreuse;
+}    
+.item-even{
+    text-decoration-color: darkgoldenrod;
+}
+.main-head{
+    text-align: center;
+    text-decoration: underline;
+    font-size:  120px;
+    font-style: oblique;
+}
+.items h1{
+    color: lightseagreen;
+}
+.items h1:nth-child(1){
+    text-decoration: line-through;
+}
+.items h1:nth-child(2){
+    text-decoration: overline;
+}
+.items h1:nth-child(3){
+    text-decoration: underline;
+}

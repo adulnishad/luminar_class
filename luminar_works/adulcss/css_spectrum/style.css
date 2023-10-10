@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.head-one{
+    text-align: center;
+    
+}
+.row{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    /* border: 1px solid yellow; */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+
+}
+
+.col{
+    width: 18%;
+    height: 170px;
+
+
+}
+.col1{
+    background-color: aqua;
+}
+.col2{
+    background-color: blue;
+}
+.col3{
+    background-color: blueviolet;
+}
+.col4{
+    background-color: chartreuse;
+}
+.col5{
+    background-color: coral;
+}
+
+.row1{
+    width: 70%;
+    height: 200px;
+    display: flex;
+    /* border: 1px solid yellow; */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+
+}
+
+.cols{
+    width: 12%;
+    height: 170px;
+
+
+}
+.col11{
+    background-color: aqua;
+}
+.col12{
+    background-color: blue;
+}
+.col13{
+    background-color: blueviolet;
+}
+.col14{
+    background-color: chartreuse;
+}
+.col15{
+    background-color: coral;
+}
+.col16{
+    background-color: cadetblue;
+}
+.col17{
+    background-color: yellow;
+}
+.row2{
+    width: 95%;
+    height: 200px;
+    display: flex;
+    /* border: 1px solid yellow; */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+
+}
+
+.cold{
+    width: 9%;
+    height: 170px;
+
+
+}
+.col21{
+    background-color: aqua;
+}
+.col22{
+    background-color: blue;
+}
+.col23{
+    background-color: blueviolet;
+}
+.col24{
+    background-color: chartreuse;
+}
+.col25{
+    background-color: coral;
+}
+.col26{
+    background-color: darkseagreen;
+}
+.col27{
+    background-color: darkslateblue;
+}
+.col28{
+    background-color: fuchsia;
+}
+.col29{
+    background-color: gold;
+}
